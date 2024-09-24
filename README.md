@@ -1,1 +1,1 @@
-Created CountDown Timer for Codeclause Internship
+Created Background Generator for Codeclause Internship
